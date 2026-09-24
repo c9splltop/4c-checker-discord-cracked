@@ -50,7 +50,7 @@ python3 --version
 2. Clone the repository
 
 git clone https://github.com/c9splltop/4c-checker-discord-cracked.git
-cd YOUR-REPOSITORY
+cd OFDT src.py
 
 ---
 
@@ -82,8 +82,8 @@ pkg install python git
 
 Clone the repository:
 
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
-cd YOUR-REPOSITORY
+git clone https://github.com/c9splltop/4c-checker-discord-cracked.git
+cd OFDT src.py
 
 Install the dependencies:
 
