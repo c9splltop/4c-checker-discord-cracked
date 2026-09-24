@@ -49,7 +49,7 @@ python3 --version
 
 2. Clone the repository
 
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
+git clone https://github.com/c9splltop/4c-checker-discord-cracked.git
 cd YOUR-REPOSITORY
 
 ---
